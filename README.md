@@ -9,6 +9,7 @@ The task involves developing a web application that allows users to browse throu
 https://github.com/jigneshbhai/react-intermediate-main-task
 
 ### Video Explanation
+https://app.usebubbles.com/7648tztT1KSaFg2QoGToub/complete-task
 
 ### Setting Up the Project
 
